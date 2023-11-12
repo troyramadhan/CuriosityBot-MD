@@ -24,7 +24,7 @@ global.cb = 'CuriosityBot-MD'
 global.vs = '1.0.2'
 global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
-global.lenguaje = 'Español'
+global.languange = 'English'
 global.menudi = ['⛶','❏','⫹⫺']
 global.dev = '5217294888993'
 
